@@ -6,7 +6,7 @@
 
 *AWS • Docker • Kubernetes • Linux • Git • GitHub • CI/CD • Terraform • Datadog*
 
-[![LinkedIn](https://www.linkedin.com/in/mohseen-lukade-5a4564403/)
+[![LinkedIn](www.linkedin.com/in/mohseen-lukade)
 [![Email](mohseenluk01@gmail.com)
 
 </div>
