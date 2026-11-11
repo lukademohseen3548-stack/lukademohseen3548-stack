@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mohseen 👋
+# Mohseen Lukade
 
 ###  DevOps & Cloud Engineer · Pune, India
 
@@ -25,8 +25,6 @@
 - 🎯 **Open to entry-level DevOps / Cloud Engineer roles**
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
