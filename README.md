@@ -2,9 +2,9 @@
 
 # Hi, I'm Mohseen 👋
 
-### Aspiring DevOps & Cloud Engineer · Pune, India
+###  DevOps & Cloud Engineer · Pune, India
 
-*I like automating things so they run without me.*
+*AWS • Docker • Kubernetes • Linux • Git • GitHub • CI/CD • Terraform • Datadog*
 
 [![LinkedIn](https://www.linkedin.com/in/mohseen-lukade-5a4564403/)
 [![Email](mohseenluk01@gmail.com)
@@ -15,10 +15,16 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 BBA (Computer Applications) graduate, VCACS, class of 2026
-- ☁️ Focused on **Cloud and DevOps**: AWS, Linux, containers, and CI/CD pipelines
-- 🔨 Learning by building: every tool below is something I have set up and broken myself
-- 🎯 **Looking for an entry-level DevOps Engineer / Cloud Engineer role**
+## 🧑‍💻 About Me
+
+- ☁️ **Cloud & DevOps Engineer** building skills through hands-on projects
+- 🐧 Comfortable with **Linux** and **shell scripting** for day-to-day automation
+- 🐳 Containerizing apps with **Docker** and learning **Kubernetes** to orchestrate them
+- 🟠 Working with **AWS**: EC2, S3, IAM, VPC, RDS, DynamoDB and CloudWatch
+- 🔁 Hands on practice **CI/CD** with Jenkins and GitHub Actions, and infrastructure as code with Terraform
+- 🔀 Using **Git & GitHub** to version everything I build
+- 🚀 Building real projects to learn how things work in production
+- 🎯 **Open to entry-level DevOps / Cloud Engineer roles**
 
 ---
 
